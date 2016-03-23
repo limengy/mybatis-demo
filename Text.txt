@@ -1,2 +1,10 @@
-this is a test lmy why
-  
+package com.taiji.ws.service;
+
+public class Test1 {
+
+	
+    public static void main(String[] args) throws Exception {
+ 	 
+ 	 System.out.println("hello world");
+  }
+}
